@@ -6,7 +6,7 @@ def roll_call_dwarves(names)
   end
 end
 
-def summon_captain_planet(array)    # code an argument here
+def summon_captain_planet(veggies)    # code an argument here
   array.string_length
   
 end
