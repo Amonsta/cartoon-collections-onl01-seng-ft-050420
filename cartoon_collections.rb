@@ -18,7 +18,7 @@ end
 
 def long_planeteer_calls(calls_short)# code an argument here
    i = 0 
-  if  array.any? {|i| i.length > 4}
+  if  calls_short.any? {|i| i.length > 4}
     return true
   else 
     return false
